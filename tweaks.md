@@ -1,5 +1,3 @@
-# TweaksSetEdit
-Gaming/Performance/GPU Acceleration and more Tweaks :33
+#More Tweaks SetEdit Android
 
-
-# More Tweaks SetEdit Android
+Trước Khi Bắt Đầu Tối Ưu, Vui Lòng Bạn Hãy Cài Đặt App SetEdit Trên CH Play: https://play.google.com/store/apps/details?id=by4a.setedit22
